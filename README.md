@@ -19,10 +19,10 @@ Link -
 
 
 
-# 3. Corporación Favorita Grocery Sales Forecasting
+# 3. Global Electricity Statistics (1980-2021)
 
 
-CSV File - https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting
+CSV File - https://www.kaggle.com/datasets/akhiljethwa/global-electricity-statistics
 
 Link -
 
